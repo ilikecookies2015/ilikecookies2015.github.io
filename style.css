@@ -1,0 +1,56 @@
+body {
+	width: 100%;
+	margin: auto;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.header {
+	background: #cc773f;
+	width: 100%;
+	top: 0;
+	position: fixed;
+}
+
+.logo {
+	float: left;
+	font-family: Helvetica;
+	font-size: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: #c4b033;
+}
+
+a:hover   {
+	color:grey; 
+	background-color:transparent; 
+	text-decoration:none; 
+	font-family: Helvetica;
+}
+
+li {
+	list-style: none;
+	font-family: Helvetica;
+	float: left;
+	margin-left: 15px;
+	padding-top: 15px;
+}
+
+.nav {
+	float: right;
+}
+
+p {
+	font-family: Helvetica;
+	font-size: 14px;
+}
+
+h2 {
+	font-family: Helvetica;
+}
+
